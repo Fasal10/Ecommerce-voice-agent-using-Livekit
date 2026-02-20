@@ -1,0 +1,12 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-elevenlabs
+livekit-plugins-silero
+llama-index
+python-dotenv
+livekit-plugins-deepgram
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+pypdf
